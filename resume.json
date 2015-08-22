@@ -1,0 +1,258 @@
+{
+  "basics": {
+    "name": "Phil Scott",
+    "label": "",
+    "picture": "",
+    "email": "phil.scott@gmail.com",
+    "phone": "(502) 802-5292",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "1 Amber Ridge",
+      "postalCode": "26508",
+      "city": "Morgantown",
+      "countryCode": "US",
+      "region": "West Virginia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "enkafan",
+        "url": "https://github.com/enkafan"
+      },
+      {
+        "network": "Twitter",
+        "username": "Philco78",
+        "url": "http://twitter.com/Philco78"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Birch",
+      "position": "Senior Architect",
+      "website": "http://www.birch.com",
+      "startDate": "2014-6-01",
+      "endDate": "",
+      "summary": "Led efforts of migration of companywide primary B/OSS legacy WCF client / server application to Web API and AngularJS system",
+      "highlights": [
+        "Created integrated Git Flow development process via JIRA and Atlassian Stash with TeamCity and SlashHQ integration. ",
+        "Implemented an automated continous delivery system using Octopus Deploy",
+        "Established best practices for REST API resources and documentation via Swagger",
+        "Worked with key business stakeholders during acquisition for knowledge share and system integration",
+        "Wrote best practice guidelines and documentation for developer workflow and system design",
+        "Led daily standups and coordinated prioritization of work",
+        "Created and conducted development continuous education, and training on new policies and technology"
+      ]
+    },
+    {
+      "company": "Cbeyond",
+      "position": "Senior .NET Developer / Team Lead",
+      "website": "",
+      "startDate": "2010-11-1",
+      "endDate": "2014-6-01",
+      "summary": "Cloud Automation Team Lead and .NET Architect",
+      "highlights": [
+        "Designed SOA layer architecture and led development for VMWare / Hyper-V provisioning. Implemented using WCF and ASP.NET WebAPI 1.0",
+        "Managed and colaborated with geographically diverse team to implement portal front end for Total Cloud product",
+        "Provided software guidance, established technical roadmaps, and documented coding standards and procedures for team",
+        "Worked with product development and cloud engineering teams to establish product feature set and implementation paths",
+        "Led team that won innovation award for custom communication protocol over Hyper-V KVP",
+        "Oversaw custom written billing system and led PCI compliance initiatives",
+        "Coordinated with change management and deployment teams to guide releases",
+        "Worked with primary business stakeholders to integrate existing MaximumASP systems into Cbeyond systems"
+      ]
+    },
+    {
+      "company": "MaximumASP",
+      "position": "Senior .NET Developer",
+      "website": "http://www.maximumasp.com",
+      "startDate": "2004-8-30",
+      "endDate": "2010-11-1",
+      "summary": "Designed software architecture and UI of primary business Portal used by both internal employees and customers utilizing C#, ASP.Net 4, HTML5, CSS3 and JavaScript / jQuery",
+      "highlights": [
+        "Created coding standards and guidelines used by all team members for projects",
+        "Implemented continuous integration utilizing CruiseControl and later TeamCity",
+        "Designed and developed supporting provisioning web services wrapping third party hardware and software implementations in C# utilizing .NET ASMX Services / WCF / Rest API",
+        "Member of product design, architecture and implementation team for Cloud Servers and Cloud Sites products",
+        "Wrote support applications for networking and hardware teams",
+        "Design and created NOC / SOC monitoring software for real time display of critical security, support, hardware and networking information utilizing SOA, HTML, CSS3 and jQuery",
+        "Worked as Tier 3 support with customers to troubleshoot deployment and integration issues with our platform",
+        "Wrote knowledge base articles to assist both internal employees and customers with common deployment and application issues with our environment"
+      ]
+    },
+    {
+      "company": "New Horizons",
+      "position": "Software Development Instructor (MCT)",
+      "website": "",
+      "startDate": "2001-06-01",
+      "endDate": "2004-8-30",
+      "summary": "Taught Microsoft Official Curriculum courses on C#, VB.NET, VB6, COM+, SQL Server 7 and 2000, ADO.NET and ASP.NET in the MCSD Program",
+      "highlights": [
+        "Prepared classrooms and created software deployment packages using Altiris Deployment Solution",
+        "Assisted sales in creating proper curriculum for students, and training programs for corporate clients",
+        "Maintained and developed class scheduling application and web page for the company"
+      ]
+    },
+    {
+      "company": "New Horizons",
+      "position": "Deployment Tech",
+      "website": "",
+      "startDate": "1999-01-01",
+      "endDate": "2001-06-01",
+      "summary": "Performed installation of software for daily classroom schedules. Reimaged 150 computers nightly for the following day's courses",
+      "highlights": [
+        "Automated deployment using Altiris deployment solution, batch files and AutoIt",
+        "Windows 95, 98, ME, NT and 2000 automated deployments and scripted deploys of Office 95/97/2000",
+        "Troubleshot and repaired hardware related issues"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Ironman",
+      "position": "Aid Station Captain",
+      "website": "http://lahpa.com",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "Directed over 150 volunteers on race day for for an Aid station for the Iron Man Triathalon. We provide water and food for over 3000 athletes as they pass by 4 times over the course of 12 hours",
+      "highlights": []
+    },
+    {
+      "organization": "Louisville Adult Hockey",
+      "position": "Learn to Play Coach ",
+      "website": "",
+      "startDate": "1/1/2010",
+      "endDate": "1/1/2013",
+      "summary": "On ice coach for 10 week Learn to Play Program for Louisville Adult Hockey's Never Ever program. ",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bellarmine University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hosting Partner of the Year",
+      "date": "6/25/2009",
+      "awarder": "Microsoft",
+      "summary": "Developed and designed management and automation systems for MaximumASP"
+    },
+    {
+      "title": "Hyper-V Cloud Provider of the Year ",
+      "date": "2010",
+      "awarder": "Microsoft ",
+      "summary": ""
+    },
+    {
+      "title": "Excellence Award",
+      "date": "1/1/2012",
+      "awarder": "Cbeyond",
+      "summary": "Given in recognition of outstanding delivery of our Total Cloud Data Center provisioning and SOA layer"
+    },
+    {
+      "title": "Character Award",
+      "date": "1/1/2013",
+      "awarder": "Cbeyond",
+      "summary": "Given in recognition of leadership and mentorship of the Louisville branch of Cbeyond"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "MVC 1.0 - 5.0",
+        "1.0 - 2.2",
+        "ASP.NET WebForms",
+        "HTML5",
+        "SASS",
+        "jQuery",
+        "Grunt / Gulp / Bower"
+      ]
+    },
+    {
+      "name": "Data Storage",
+      "level": "Master",
+      "keywords": [
+        "SQL Server",
+        "RavenRB",
+        "MongoDB",
+        "RabbitMQ",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "TFS",
+        "SourceGear Vault",
+        "Atlassian Stash Adminstration",
+        "GitHub Administration"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": [
+        "TeamCity",
+        "Octopus Deploy",
+        "AppVeyor",
+        "GitHub",
+        "Nuget Package Administration"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "MassTransit",
+        "TopShelf",
+        ""
+      ]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Master",
+      "keywords": [
+        "xUnit",
+        "nUnit",
+        "MSTest",
+        "Fixie",
+        "NCrunch"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Serilog",
+        "Log4Net",
+        "EntityFramework",
+        "AutoMapper",
+        "Autofac",
+        "SimpleInjector",
+        "Ninject"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
