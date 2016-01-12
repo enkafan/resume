@@ -38,11 +38,14 @@
       "highlights": [
         "Created integrated Git Flow development process via JIRA and Atlassian Stash with TeamCity and SlashHQ integration. ",
         "Implemented an automated continous delivery system using Octopus Deploy",
-        "Established best practices for REST API resources and documentation via Swagger",
+        "Established best practices for REST API resources,and documentation via Swagger",
         "Worked with key business stakeholders during acquisition for knowledge share and system integration",
         "Wrote best practice guidelines and documentation for developer workflow and system design",
         "Led daily standups and coordinated prioritization of work",
-        "Created and conducted development continuous education, and training on new policies and technology"
+        "Created and conducted development continuous education, and training on new policies and technology such as unit testing, GitFlow workflow, message queuing, and general developer productivity tips",
+        "Redesigned billing system, transitioning from a collection of thousands of lines of SQL stored procedures to a message based system to ensure better scalability, reliability while increasing performance 50x. Backend is Topshelf application hosting Hangfire for scheduling and MassTransit 3.0 for ESB ",
+        "Performed technical screenings of interview candidates to ensure not only candidates had the appropriate skill but also where a good cultural fit",
+        "Performed code reviews on all committed line-of-business code to ensure standards and quality were met"
       ]
     },
     {
@@ -199,7 +202,8 @@
         "TFS",
         "SourceGear Vault",
         "Atlassian Stash Adminstration",
-        "GitHub Administration"
+        "GitHub Administration",
+        "AppVeyor"
       ]
     },
     {
@@ -219,7 +223,8 @@
       "keywords": [
         "MassTransit",
         "TopShelf",
-        ""
+        "RabbitMQ",
+        "Hangfire"
       ]
     },
     {
